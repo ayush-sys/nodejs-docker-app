@@ -1,0 +1,14 @@
+{
+  "name": "node_dock_project",
+  "version": "1.0.0",
+  "description": "NodeJS docker ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Pattanayak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
